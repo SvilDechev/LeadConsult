@@ -55,3 +55,4 @@ Information for downloading and installation of NodeJS: - download: https://node
 # Reporting
 - For reporting purpose is used Allure report. 
   After the test execution can see the allure report by follow command ``npm run allure-report`` this should be open the report
+
