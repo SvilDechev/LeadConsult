@@ -1,4 +1,4 @@
-# DOC END-TO-END TESTS
+# LeadConsult e2e tests
 
 # Table of Content
 
